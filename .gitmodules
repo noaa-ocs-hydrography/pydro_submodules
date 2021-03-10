@@ -46,3 +46,19 @@
 	path = hstb_shared
 	url = https://github.com/noaa-ocs-hydrography/shared.git
 	branch = main
+[submodule "hstb_kluster"]
+	path = hstb_kluster
+	url = https://github.com/noaa-ocs-hydrography/kluster.git
+	branch = master
+[submodule "hstb_gui"]
+	path = hstb_gui
+	url = https://github.com/noaa-ocs-hydrography/hstb_gui.git
+	branch = main
+[submodule "hstb_pydro_explorer"]
+	path = hstb_pydro_explorer
+	url = https://github.com/noaa-ocs-hydrography/pydro_explorer.git
+	branch = main
+[submodule "hdf_compass"]
+	path = hdf_compass
+	url = https://github.com/HDFGroup/hdf-compass.git
+	branch = develop
